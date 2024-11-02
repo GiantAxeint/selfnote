@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/吐槽.md",
+                "file": "note/C++编译器和连接器个人理解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "吐槽"
+              "title": "C++编译器和连接器个人理解"
             }
           }
         ]
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fb48f9f6a039451",
+  "active": "8578faa30901bcac",
   "lastOpenFiles": [
     "note/吐槽.md",
     "note/C++编译器和连接器个人理解.md",
