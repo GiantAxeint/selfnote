@@ -145,7 +145,8 @@
               "title": "欢迎 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6952b0eb0061c4c",
+  "active": "cbf017e4e21c7d12",
   "lastOpenFiles": [
     "4.md",
     "C++/C++编译器和连接器相关问题.md",
