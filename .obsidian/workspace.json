@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/未命名.md",
+                "file": "C++/定义与声明分离的必要性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "定义与声明分离的必要性"
             }
           }
         ]
@@ -182,7 +182,7 @@
   "active": "8578faa30901bcac",
   "lastOpenFiles": [
     "C++/C++编译器和连接器相关问题.md",
-    "C++/未命名.md",
+    "C++/定义与声明分离的必要性.md",
     "MyStyle.css",
     "读书笔记/测试.md",
     "读书笔记",
