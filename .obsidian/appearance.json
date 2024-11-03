@@ -1,3 +1,9 @@
 {
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "MyStyle",
+    "MyStyleNotInPdf"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 13
 }
