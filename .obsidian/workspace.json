@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48869109bbabf7d3",
+        "id": "b4f850ccdf1b4f34",
         "type": "tabs",
         "children": [
           {
-            "id": "8578faa30901bcac",
+            "id": "d56dcc3b040e590c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,8 +162,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "784d9be8754ddaab",
+  "active": "d56dcc3b040e590c",
   "lastOpenFiles": [
+    "4.md",
     "C++/C++编译器和连接器相关问题.md",
     "C++/定义与声明分离的必要性.md",
     "MyStyle.css",
