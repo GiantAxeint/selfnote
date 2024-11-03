@@ -31,4 +31,8 @@
 
 在其他cpp文件中使用这些函数时，就#include相对应的.h文件，就可直接使用。
 
-举例：log.cpp log.h  main.c三个文件中，log.cpp负责定义相对应函数，log.h负责声明log.cpp中的对应函数，main.c文件想使用这些函数时，直接 #include"log.h"文件，就可以直接使用log.cpp中的函数了，避免了不同
+> [!举例]
+> log.cpp log.h  main.c三个文件中，log.cpp负责定义相对应函数，log.h负责声明log.cpp中的对应函数，main.c文件想使用这些函数时，直接 #include"log.h"文件，就可以直接使用log.cpp中的函数了，避免了不同文件中重复定义的风险。
+
+如不想如此
+
