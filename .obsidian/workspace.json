@@ -100,7 +100,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "C++编译器和连接器相关问题 的反向链接列表"
@@ -162,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8578faa30901bcac",
+  "active": "784d9be8754ddaab",
   "lastOpenFiles": [
     "C++/C++编译器和连接器相关问题.md",
     "C++/定义与声明分离的必要性.md",
