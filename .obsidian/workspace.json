@@ -6,7 +6,6 @@
       {
         "id": "48869109bbabf7d3",
         "type": "tabs",
-        "dimension": 74.33774834437085,
         "children": [
           {
             "id": "8578faa30901bcac",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/定义与声明分离的必要性.md",
+                "file": "C++/C++编译器和连接器相关问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定义与声明分离的必要性"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b731dd3f28c092c5",
-        "type": "tabs",
-        "dimension": 25.662251655629138,
-        "children": [
-          {
-            "id": "1fb48f9f6a039451",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "C++编译器和连接器相关问题"
             }
           }
         ]
@@ -181,8 +163,8 @@
   },
   "active": "8578faa30901bcac",
   "lastOpenFiles": [
-    "C++/C++编译器和连接器相关问题.md",
     "C++/定义与声明分离的必要性.md",
+    "C++/C++编译器和连接器相关问题.md",
     "MyStyle.css",
     "读书笔记/测试.md",
     "读书笔记",
