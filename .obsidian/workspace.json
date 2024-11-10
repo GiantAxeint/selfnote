@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "声明",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
