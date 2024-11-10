@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +163,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd24b67180939f49",
+  "active": "a6952b0eb0061c4c",
   "lastOpenFiles": [
     "C++/C++编译器和连接器相关问题.md",
     "C++/头文件问题.md",
