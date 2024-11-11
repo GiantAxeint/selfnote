@@ -1,7 +1,8 @@
 {
   "cssTheme": "",
   "enabledCssSnippets": [
-    "MyStyleNotInPdf"
+    "MyStyleNotInPdf",
+    "MyStyle"
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 16,
