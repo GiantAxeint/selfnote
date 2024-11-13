@@ -11,17 +11,14 @@
             "id": "299c9772b0b85893",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C++/未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "C++/Static问题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Static问题"
             }
           }
         ]
@@ -115,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/未命名.canvas",
+                "file": "C++/Static问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "Static问题 的出链列表"
             }
           },
           {
@@ -168,10 +165,10 @@
   },
   "active": "299c9772b0b85893",
   "lastOpenFiles": [
-    "C++/Static问题.md",
-    "C++/未命名.canvas",
     "C++/C++编译器和连接器相关问题.md",
     "C++/语法糖.md",
+    "C++/未命名.canvas",
+    "C++/Static问题.md",
     "C++/指针和引用问题.md",
     "C++/头文件问题.md",
     "C++/分支语句的小细节.md",
