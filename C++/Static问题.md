@@ -13,7 +13,26 @@
 ##### 局部静态情况
 
 #### 在类和结构体内的情况
-下面我们采用
+##### static 变量的情况
+下面我们采用struct来举例
 ```
+struct Entity
+{
+	static int x, y;
+	static void Print(Entity e)
+	{
+		std::cout << e.x << " " << e.y << std::endl;
+	}
+};
 
+int Entity::x;
+int Entity::y;
+int main()
+{
+	Entity e1;
+
+	Entity::Print(e1);
+	std::cin.get();
+}
 ```
+如果我们在class或struct中static一个
