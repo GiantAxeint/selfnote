@@ -92,4 +92,8 @@ static void Print(Entity e)
 	
 这样我们就能正常使用了。
 
-btw，静态函数使用时也要
+btw，静态函数使用时也要声明class名，Print函数使用时应当写:
+
+Entity::Print(e1);
+
+如果不是静态函数的话，就以具体class
