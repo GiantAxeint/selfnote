@@ -35,4 +35,4 @@ int main()
 	std::cin.get();
 }
 ```
-如果我们在class或struct中static一个
+如果我们在class或struct中static一个变量，这意味着这个变量是这种class或struct关键字的共用变量，
