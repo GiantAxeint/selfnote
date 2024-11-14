@@ -30,9 +30,9 @@ int Entity::y;
 int main()
 {
 	Entity e1;
-
+	Entity e2;
 	Entity::Print(e1);
 	std::cin.get();
 }
 ```
-如果我们在class或struct中static一个变量，这意味着这个变量是这种class或struct关键字的共用变量，
+如果我们在class或struct中static一个变量，这意味着这个变量是这种class或struct关键字的共用变量，以上图为例子，我们设置名为E
