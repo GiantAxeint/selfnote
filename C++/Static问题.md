@@ -19,10 +19,18 @@
 struct Entity
 {
 	static int x, y;
-	static void Print(Entity e)
+	
+	static void Print()
+	{
+		std::cout << x << " " << y << std::endl;
+	}
+
+
+
+	/*static void Print(Entity e)
 	{
 		std::cout << e.x << " " << e.y << std::endl;
-	}
+	}*/
 };
 
 int Entity::x;
@@ -35,4 +43,4 @@ int main()
 	std::cin.get();
 }
 ```
-如果我们在class或struct中static一个变量，这意味着这个变量是这种class或struct关键字的共用变量，以上图为例子，我们设置名为E
+如果我们在class或struct中static一个变量，这意味着这个变量是这种class或struct关键字的共用变量，以上图为例子，我们设置名为Entity的结构体，在Entity中设置静态变量x和y。
