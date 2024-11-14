@@ -25,12 +25,6 @@ struct Entity
 		std::cout << x << " " << y << std::endl;
 	}
 
-/*上述静态Print函数实际编译中进程如下↓*/
-	/*static void Print(Entity e)
-	{
-		std::cout << e.x << " " << e.y << std::endl;
-	}*/
-
 };
 
 int Entity::x;
@@ -67,3 +61,9 @@ static在编程中的作用也是这样，因为是class名旗下的所有具体
 
 ##### static方法（函数）的情况
 类或结构体中的函数，实际上是带有类实例参数的，哪怕在代码中你并没有写上这些参数。
+在类或结构体中写
+
+	static void Print(Entity e)
+	{
+		std::cout << e.x << " " << e.y << std::endl;
+	}
