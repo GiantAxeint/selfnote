@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/SelfSuger/亡语.md",
+                "file": "C++/8.析构函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "亡语"
+              "title": "8.析构函数"
             }
           }
         ]
@@ -165,9 +165,9 @@
   },
   "active": "299c9772b0b85893",
   "lastOpenFiles": [
+    "C++/SelfSuger/亡语.md",
     "C++/SelfSuger/战吼.md",
     "C++/SelfSuger/重载.md",
-    "C++/SelfSuger/亡语.md",
     "C++/8.析构函数.md",
     "C++/8.构造函数.md",
     "C++/7.枚举.md",
