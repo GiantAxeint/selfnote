@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/9.继承.md",
+                "file": "C++/10.虚函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.继承"
+              "title": "10.虚函数"
             }
           }
         ]
@@ -165,10 +165,10 @@
   },
   "active": "299c9772b0b85893",
   "lastOpenFiles": [
+    "C++/9.继承.md",
     "C++/10.虚函数.md",
     "C++/11.纯虚函数.md",
     "C++/SelfSuger/重载.md",
-    "C++/9.继承.md",
     "C++/8.析构函数.md",
     "C++/8.构造函数.md",
     "C++/7.枚举.md",
