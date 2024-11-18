@@ -11,14 +11,12 @@
             "id": "299c9772b0b85893",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "C++/10.虚函数.md",
-                "mode": "source",
-                "source": false
+                "file": "C++/pictures/P%O`V7U{$3)WA6UJN]A7_KJ.png"
               },
-              "icon": "lucide-file",
-              "title": "10.虚函数"
+              "icon": "lucide-image",
+              "title": "P%O`V7U{$3)WA6UJN]A7_KJ"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++编译器和连接器相关问题.md",
+                "file": "C++/pictures/P%O`V7U{$3)WA6UJN]A7_KJ.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "C++编译器和连接器相关问题 的反向链接列表"
+              "title": "P%O`V7U{$3)WA6UJN]A7_KJ 的反向链接列表"
             }
           },
           {
@@ -112,11 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/pictures/P%O`V7U{$3)WA6UJN]A7_KJ.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "P%O`V7U{$3)WA6UJN]A7_KJ 的出链列表"
             }
           },
           {
@@ -149,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,16 +163,16 @@
   },
   "active": "299c9772b0b85893",
   "lastOpenFiles": [
+    "C++/10.虚函数.md",
+    "C++/11.纯虚函数.md",
     "C++/pictures/P%O`V7U{$3)WA6UJN]A7_KJ.png",
     "C++/pictures/CSGPTH]ZR{H}VJOU7O[JQ]P.png",
     "C++/pictures/O[1M6V36HWPRT0L9_[TZA9R.png",
-    "C++/10.虚函数.md",
     "C++/9.继承.md",
     "目的.md",
     "C++/pictures",
     "C++/未命名.md",
     "这里是完全继承，也就是说Play继承Entity之后，Play就相当于是Entity类，也可以使用Entity中的函数，并继承父类的变量的占内存空间。.md",
-    "C++/11.纯虚函数.md",
     "C++/SelfSuger/重载.md",
     "C++/8.析构函数.md",
     "C++/8.构造函数.md",
