@@ -163,13 +163,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "299c9772b0b85893",
+  "active": "a6952b0eb0061c4c",
   "lastOpenFiles": [
+    "C++/未命名",
+    "C++/未命名.md",
+    "C++/10.虚函数.md",
+    "这里是完全继承，也就是说Play继承Entity之后，Play就相当于是Entity类，也可以使用Entity中的函数，并继承父类的变量的占内存空间。.md",
+    "C++/9.继承.md",
+    "C++/11.纯虚函数.md",
     "P%O`V7U{$3)WA6UJN]A7_KJ.png",
     "O[1M6V36HWPRT0L9_[TZA9R.png",
-    "C++/9.继承.md",
-    "C++/10.虚函数.md",
-    "C++/11.纯虚函数.md",
     "C++/SelfSuger/重载.md",
     "C++/8.析构函数.md",
     "C++/8.构造函数.md",
@@ -194,9 +197,7 @@
     "UCD2P6B9X9QC5DN3L}OKJ(C.jpg",
     "^1.md",
     "4.md",
-    "C++/定义与声明分离的必要性.md",
     "MyStyle.css",
-    "读书笔记/测试.md",
     "读书笔记",
     "C++",
     "note"
