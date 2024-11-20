@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "微分等于导数的含义"
             }
+          },
+          {
+            "id": "749be5ffe227592e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,12 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微积分/微分/微分等于导数的含义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "微分等于导数的含义 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -163,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "299c9772b0b85893",
+  "active": "749be5ffe227592e",
   "lastOpenFiles": [
     "微积分/微分/微分等于导数的含义.md",
     "微积分/微分",
