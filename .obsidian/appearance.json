@@ -1,9 +1,6 @@
 {
   "cssTheme": "",
-  "enabledCssSnippets": [
-    "MyStyleNotInPdf",
-    "MyStyle"
-  ],
+  "enabledCssSnippets": [],
   "baseFontSizeAction": true,
   "baseFontSize": 16,
   "accentColor": "",
