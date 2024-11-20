@@ -11,10 +11,14 @@
             "id": "299c9772b0b85893",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "微积分/微分/微分等于导数的含义.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微分等于导数的含义"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "微积分/微分/微分等于导数的含义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "微分等于导数的含义 的出链列表"
             }
           },
           {
@@ -160,6 +165,10 @@
   },
   "active": "299c9772b0b85893",
   "lastOpenFiles": [
+    "微积分/微分/微分等于导数的含义.md",
+    "微积分/微分",
+    "微积分/未命名.md",
+    "微积分",
     "C++/11.纯虚函数.md",
     "C++/10.虚函数.md",
     "C++/9.继承.md",
@@ -190,9 +199,7 @@
     "公有财产.md",
     "C++/SelfSuger",
     "C++/未命名.canvas",
-    "未命名",
     "UCD2P6B9X9QC5DN3L}OKJ(C.jpg",
-    "^1.md",
     "MyStyle.css",
     "读书笔记",
     "C++",
