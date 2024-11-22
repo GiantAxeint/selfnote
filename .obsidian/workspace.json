@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微积分/微分/微分等于导数的含义.md",
+                "file": "读书笔记/特殊到一般.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微分等于导数的含义"
+              "title": "特殊到一般"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微积分/微分/微分等于导数的含义.md",
+                "file": "读书笔记/特殊到一般.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "微分等于导数的含义 的出链列表"
+              "title": "特殊到一般 的出链列表"
             }
           },
           {
@@ -166,6 +166,7 @@
   "active": "749be5ffe227592e",
   "lastOpenFiles": [
     "微积分/微分/微分等于导数的含义.md",
+    "读书笔记/特殊到一般.md",
     "微积分/微分",
     "微积分/未命名.md",
     "微积分",
@@ -196,7 +197,6 @@
     "C++/SelfSuger/语法糖.md",
     "C++/SelfSuger/小区名.md",
     "C++/SelfSuger/公有财产.md",
-    "公有财产.md",
     "C++/SelfSuger",
     "C++/未命名.canvas",
     "UCD2P6B9X9QC5DN3L}OKJ(C.jpg",
