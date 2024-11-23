@@ -88,39 +88,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "784d9be8754ddaab",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "C++/11.纯虚函数.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "11.纯虚函数 的反向链接列表"
-            }
-          },
-          {
-            "id": "cbf017e4e21c7d12",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "微积分/3.函数极限定义与性质.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "3.函数极限定义与性质 的出链列表"
-            }
-          },
-          {
             "id": "77da6447bf719aac",
             "type": "leaf",
             "state": {
@@ -145,8 +112,7 @@
               "title": "欢迎 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
