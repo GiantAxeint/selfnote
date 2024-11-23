@@ -11,14 +11,10 @@
             "id": "749be5ffe227592e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微积分/1.函数与极限.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.函数与极限"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -112,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微积分/1.函数与极限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1.函数与极限 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -165,24 +160,24 @@
   },
   "active": "749be5ffe227592e",
   "lastOpenFiles": [
-    "微积分/微分/微分等于导数的含义.md",
-    "微积分/1.函数与极限.md",
+    "C++/1.C++编译器和连接器相关问题.md",
     "微积分/SelfMathSurgers/形容.md",
+    "微积分/1.函数与极限.md",
+    "C++/7.枚举.md",
+    "C++/11.纯虚函数.md",
+    "微积分/微分/微分等于导数的含义.md",
     "微积分/SelfMathSurgers",
     "读书笔记/特殊到一般.md",
     "微积分/微分",
     "微积分",
-    "C++/11.纯虚函数.md",
     "C++/10.虚函数.md",
     "C++/9.继承.md",
     "C++/8.构造函数.md",
-    "C++/7.枚举.md",
     "C++/8.析构函数.md",
     "C++/5.类（class）问题.md",
     "C++/4.指针和引用问题.md",
     "C++/3.分支语句的小细节.md",
     "C++/2.头文件问题.md",
-    "C++/1.C++编译器和连接器相关问题.md",
     "C++/pictures/P%O`V7U{$3)WA6UJN]A7_KJ.png",
     "C++/pictures/CSGPTH]ZR{H}VJOU7O[JQ]P.png",
     "C++/pictures/O[1M6V36HWPRT0L9_[TZA9R.png",
@@ -197,7 +192,6 @@
     "…….md",
     "C++/SelfSuger/业主名.md",
     "C++/SelfSuger/语法糖.md",
-    "C++/SelfSuger/小区名.md",
     "C++/SelfSuger",
     "C++/未命名.canvas",
     "UCD2P6B9X9QC5DN3L}OKJ(C.jpg",
