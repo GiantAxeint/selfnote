@@ -11,10 +11,14 @@
             "id": "749be5ffe227592e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "微积分/1.函数与极限.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.函数与极限"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "微积分/1.函数与极限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "1.函数与极限 的出链列表"
             }
           },
           {
@@ -160,14 +165,14 @@
   },
   "active": "749be5ffe227592e",
   "lastOpenFiles": [
-    "C++/1.C++编译器和连接器相关问题.md",
     "微积分/SelfMathSurgers/形容.md",
+    "读书笔记/特殊到一般.md",
+    "C++/1.C++编译器和连接器相关问题.md",
     "微积分/1.函数与极限.md",
     "C++/7.枚举.md",
     "C++/11.纯虚函数.md",
     "微积分/微分/微分等于导数的含义.md",
     "微积分/SelfMathSurgers",
-    "读书笔记/特殊到一般.md",
     "微积分/微分",
     "微积分",
     "C++/10.虚函数.md",
