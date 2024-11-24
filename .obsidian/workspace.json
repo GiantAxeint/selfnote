@@ -111,6 +111,39 @@
               "icon": "lucide-list",
               "title": "欢迎 的大纲"
             }
+          },
+          {
+            "id": "26d4e7a0b27181cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "微积分/3.函数极限定义与性质.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "3.函数极限定义与性质 的反向链接列表"
+            }
+          },
+          {
+            "id": "eeed5d6eb4b20dd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "微积分/3.函数极限定义与性质.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "3.函数极限定义与性质 的出链列表"
+            }
           }
         ]
       }
@@ -132,9 +165,9 @@
   "active": "749be5ffe227592e",
   "lastOpenFiles": [
     "微积分/2.数列极限，收敛数列.md",
-    "微积分/3.函数极限定义与性质.md",
     "微积分/微分/微分等于导数的含义.md",
     "微积分/1.函数与极限.md",
+    "微积分/3.函数极限定义与性质.md",
     "微积分/SelfMathSurgers/形容.md",
     "读书笔记/特殊到一般.md",
     "C++/1.C++编译器和连接器相关问题.md",
