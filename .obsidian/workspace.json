@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微积分/1.函数与极限.md",
+                "file": "微积分/3.函数极限定义与性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.函数与极限"
+              "title": "3.函数极限定义与性质"
             }
           }
         ]
@@ -94,7 +94,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -164,14 +164,16 @@
   },
   "active": "749be5ffe227592e",
   "lastOpenFiles": [
-    "微积分/SelfMathSurgers/形容.md",
+    "C++/1.C++编译器和连接器相关问题.md",
+    "C++/2.头文件问题.md",
+    "C++/7.枚举.md",
+    "C++/6.Static问题.md",
     "微积分/1.函数与极限.md",
+    "微积分/SelfMathSurgers/形容.md",
     "微积分/2.数列极限，收敛数列.md",
     "微积分/3.函数极限定义与性质.md",
     "微积分/微分/微分等于导数的含义.md",
     "读书笔记/特殊到一般.md",
-    "C++/1.C++编译器和连接器相关问题.md",
-    "C++/7.枚举.md",
     "C++/11.纯虚函数.md",
     "微积分/SelfMathSurgers",
     "微积分/微分",
@@ -183,7 +185,6 @@
     "C++/5.类（class）问题.md",
     "C++/4.指针和引用问题.md",
     "C++/3.分支语句的小细节.md",
-    "C++/2.头文件问题.md",
     "C++/pictures/P%O`V7U{$3)WA6UJN]A7_KJ.png",
     "C++/pictures/CSGPTH]ZR{H}VJOU7O[JQ]P.png",
     "C++/pictures/O[1M6V36HWPRT0L9_[TZA9R.png",
@@ -192,7 +193,6 @@
     "C++/未命名.md",
     "这里是完全继承，也就是说Play继承Entity之后，Play就相当于是Entity类，也可以使用Entity中的函数，并继承父类的变量的占内存空间。.md",
     "C++/SelfSuger/重载.md",
-    "C++/6.Static问题.md",
     "C++/SelfSuger/亡语.md",
     "C++/SelfSuger/战吼.md",
     "…….md",
