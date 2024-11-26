@@ -1,0 +1,1 @@
+constant,常量
