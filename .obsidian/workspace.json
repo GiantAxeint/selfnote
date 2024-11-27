@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微积分/函数与极限/7.无穷小比较.md",
+                "file": "复习册/2024.11.29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.无穷小比较"
+              "title": "2024.11.29"
             }
           }
         ]
@@ -163,11 +163,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6952b0eb0061c4c",
+  "active": "749be5ffe227592e",
   "lastOpenFiles": [
+    "微积分/函数与极限/7.无穷小比较.md",
+    "复习册/2024.11.29.md",
     "复习册",
     "微积分/函数与极限/8.连续性和间断点.md",
-    "微积分/函数与极限/7.无穷小比较.md",
     "微积分/函数与极限/6.准则.md",
     "微积分/函数与极限/5.极限运算法则.md",
     "微积分/函数与极限/4.无穷小与无穷大.md",
@@ -204,7 +205,6 @@
     "C++/未命名.canvas",
     "UCD2P6B9X9QC5DN3L}OKJ(C.jpg",
     "MyStyle.css",
-    "读书笔记",
-    "C++"
+    "读书笔记"
   ]
 }
