@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微积分/函数与极限/7.无穷小比较.md",
+                "file": "微积分/函数与极限/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.无穷小比较"
+              "title": "未命名"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "749be5ffe227592e",
   "lastOpenFiles": [
-    "微积分/函数与极限/6.准则.md",
     "微积分/函数与极限/7.无穷小比较.md",
+    "微积分/函数与极限/未命名.md",
+    "微积分/函数与极限/6.准则.md",
     "微积分/函数与极限/5.极限运算法则.md",
     "微积分/函数与极限/4.无穷小与无穷大.md",
     "微积分/函数与极限/3.函数极限定义与性质.md",
@@ -198,7 +199,6 @@
     "C++/Cherno/4.指针和引用问题.md",
     "C++/Cherno/3.分支语句的小细节.md",
     "C++/pictures/O[1M6V36HWPRT0L9_[TZA9R.png",
-    "目的.md",
     "C++/pictures",
     "C++/SelfSuger",
     "C++/未命名.canvas",
