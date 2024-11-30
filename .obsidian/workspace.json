@@ -11,14 +11,12 @@
             "id": "749be5ffe227592e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "微积分/自思/泰勒展开.md",
-                "mode": "source",
-                "source": false
+                "file": "微积分/图片/常用泰勒.png"
               },
-              "icon": "lucide-file",
-              "title": "泰勒展开"
+              "icon": "lucide-image",
+              "title": "常用泰勒"
             }
           }
         ]
@@ -163,11 +161,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "749be5ffe227592e",
+  "active": "a6952b0eb0061c4c",
   "lastOpenFiles": [
+    "微积分/自思/泰勒展开.md",
+    "微积分/图片/常用泰勒.png",
     "微积分/自思/注意反向定理.md",
     "微积分/自思/微分等于导数的含义.md",
-    "微积分/自思/泰勒展开.md",
     "微积分/图片",
     "微积分/未命名.md",
     "微积分/图片/常用泰勒公式.png",
@@ -194,7 +193,6 @@
     "日记/二零二五年.md",
     "微积分/一、函数与极限/5.极限运算法则.md",
     "日记",
-    "微积分/一、函数与极限/专题：等效.md",
     "复习册/25年1月",
     "复习册/24年12月",
     "复习册/24年11月",
