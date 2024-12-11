@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习册/24年12月/2024.12.12.md",
+                "file": "SelfMathSurgers/nE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024.12.12"
+              "title": "nE"
             }
           }
         ]
@@ -163,11 +163,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6952b0eb0061c4c",
+  "active": "749be5ffe227592e",
   "lastOpenFiles": [
-    "未命名",
-    "复习册/24年12月/2024.12.11.md",
+    "SelfMathSurgers/E.md",
+    "SelfMathSurgers/C.md",
+    "SelfMathSurgers/形容.md",
+    "C++/SelfSuger/公有财产.md",
     "复习册/24年12月/2024.12.12.md",
+    "微积分/4.不定积分",
+    "复习册/24年12月/2024.12.11.md",
     "复习册/24年12月/2024.12.10.md",
     "微积分/3、微分中值定理与导数应用/1.微分中值定理.md",
     "微积分/3、微分中值定理与导数应用/7.曲率.md",
@@ -188,9 +192,6 @@
     "微积分/1、函数与极限/9.连续函数及其性质.md",
     "微积分/1、函数与极限/10.闭区间上连续函数性质.md",
     "微积分/1、函数与极限/8.连续性和间断点.md",
-    "微积分/1、函数与极限/7.无穷小比较.md",
-    "微积分/1、函数与极限/6.准则.md",
-    "微积分/1、函数与极限/5.极限运算法则.md",
     "复习册/红榜",
     "数学图片/常用泰勒.png",
     "微积分/3、微分中值定理与导数应用",
@@ -203,7 +204,6 @@
     "复习册/25年1月",
     "复习册/24年12月",
     "复习册/24年11月",
-    "复习册",
     "C++/pictures/P%O`V7U{$3)WA6UJN]A7_KJ.png",
     "C++/pictures/O[1M6V36HWPRT0L9_[TZA9R.png",
     "C++/未命名.canvas",
