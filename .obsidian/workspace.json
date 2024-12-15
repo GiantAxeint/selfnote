@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "例20,21,22,23,24,25,26,27,29",
+                "query": "例20,21,22,23,24,25,26,27,29 ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
