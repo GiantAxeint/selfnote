@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/特殊到一般.md",
+                "file": "日记/二零二四年.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "特殊到一般"
+              "title": "二零二四年"
             }
           }
         ]
@@ -163,8 +163,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6952b0eb0061c4c",
+  "active": "749be5ffe227592e",
   "lastOpenFiles": [
+    "读书笔记/特殊到一般.md",
     "微积分/自思/专题2：泰勒展开.md",
     "微积分/2、导数和微分/1.导数定义.md",
     "复习册/24年12月/2024.12.16.md",
@@ -190,7 +191,6 @@
     "复习册/25年1月/2025.1.2.md",
     "复习册/24年12月/2024.12.26.md",
     "复习册/24年12月/2024.12.22.md",
-    "复习册/25年2月/2025.2.15.md",
     "微积分/4.不定积分",
     "复习册/红榜",
     "数学图片/常用泰勒.png",
