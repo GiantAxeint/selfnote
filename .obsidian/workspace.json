@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "蒋介石",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "749be5ffe227592e",
+  "active": "fd24b67180939f49",
   "lastOpenFiles": [
     "微积分/定积分与反常积分/2.反常积分.md",
     "微积分/定积分与反常积分/1.定积分.md",
