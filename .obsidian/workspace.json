@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蒋介石",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,9 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd24b67180939f49",
+  "active": "749be5ffe227592e",
   "lastOpenFiles": [
     "微积分/定积分与反常积分/2.反常积分.md",
+    "微积分/1、函数与极限/10.闭区间上连续函数性质.md",
     "微积分/定积分与反常积分/1.定积分.md",
     "微积分/4.不定积分/不定积分概括.md",
     "复习册/24年12月/2024.12.18.md",
@@ -191,7 +191,6 @@
     "复习册/24年12月/2024.12.10.md",
     "复习册/24年12月/2024.12.8.md",
     "复习册/24年12月/2024.12.7.md",
-    "复习册/24年12月/2024.12.6.md",
     "复习册/因故不能正常复习项目",
     "微积分/定积分与反常积分",
     "微积分/4.不定积分",
