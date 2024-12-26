@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "131~140 12,13,14,15,16,17",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "749be5ffe227592e",
+  "active": "fd24b67180939f49",
   "lastOpenFiles": [
     "复习册/25年2月/2025.2.25.md",
     "复习册/25年1月/2025.1.25.md",
