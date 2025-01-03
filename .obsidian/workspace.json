@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微积分/8.多元函数微分学/2.高维函数微分.md",
+                "file": "微积分/自思/专题1：微分等于导数的含义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.高维函数微分"
+              "title": "专题1：微分等于导数的含义"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微积分/8.多元函数微分学/2.高维函数微分.md",
+                "file": "微积分/自思/专题1：微分等于导数的含义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2.高维函数微分 的反向链接列表"
+              "title": "专题1：微分等于导数的含义 的反向链接列表"
             }
           },
           {
@@ -166,8 +166,8 @@
   },
   "active": "749be5ffe227592e",
   "lastOpenFiles": [
-    "微积分/自思/专题1：微分等于导数的含义.md",
     "微积分/8.多元函数微分学/2.高维函数微分.md",
+    "微积分/自思/专题1：微分等于导数的含义.md",
     "微积分/8.多元函数微分学/3.高维函数极值与最值.md",
     "微积分/自思/专题2：泰勒展开.md",
     "微积分/自思/专题3：间断点.md",
