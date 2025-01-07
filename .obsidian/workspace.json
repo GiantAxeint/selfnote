@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "660:53,73",
+                "query": "269.8.16,8.17",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "749be5ffe227592e",
+  "active": "a6952b0eb0061c4c",
   "lastOpenFiles": [
     "复习册/25年3月/2025.3.2.md",
     "复习册/25年2月/2025.2.2.md",
